@@ -1,2 +1,2 @@
-# To-Do-List
-Simple To do List App using Reach-Native
+# Dashboard
+Simple Dashboard using Reach
